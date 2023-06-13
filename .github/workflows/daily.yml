@@ -1,0 +1,50 @@
+name: daily
+run-name: daily collecting data from gov pages
+
+on:
+  schedule:
+    - cron:  '30 0 * * *'
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    steps:
+
+      # Checkout the branch
+      - name: checkout
+        uses: actions/checkout@v3
+
+      - name: MFCR data
+        run: bin/mfcr.sh
+
+      - name: SÚKL data
+        run: bin/sukl.sh
+
+      - name: USKVBL data
+        run: bin/uskvbl.sh
+
+      - name: generate MFCR RPZ
+        run: cat csv/mfcr.csv | bin/csv2rpz.sh > rpz/mfcr.csv
+
+      - name: generate SUKL RPZ
+        run: cat csv/sukl.csv | bin/csv2rpz.sh > rpz/sukl.csv
+
+      - name: generate USKVBL RPZ
+        run: cat csv/uskvbl.csv | bin/csv2rpz.sh > rpz/uskvbl.csv
+
+      - name: generate Dezinfo RPZ
+        run: cat csv/dezinfo.csv | bin/csv2rpz.sh > rpz/dezinfo.csv
+
+      - name: generate all RPZ to one file
+        run: cat csv/*.csv | bin/csv2rpz.sh > rpz/all.csv
+
+      - name: setup git config
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+
+      - name: commit
+        run: |
+          git add -A
+          git commit -m "daily commit"
+          git push origin master

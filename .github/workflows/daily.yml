@@ -26,19 +26,19 @@ jobs:
         run: bin/uskvbl.sh
 
       - name: generate MFCR RPZ
-        run: cat csv/mfcr.csv | bin/csv2rpz.sh > rpz/mfcr.csv
+        run: cat csv/mfcr.csv | bin/csv2rpz.sh > rpz/mfcr.rpz
 
       - name: generate SUKL RPZ
-        run: cat csv/sukl.csv | bin/csv2rpz.sh > rpz/sukl.csv
+        run: cat csv/sukl.csv | bin/csv2rpz.sh > rpz/sukl.rpz
 
       - name: generate USKVBL RPZ
-        run: cat csv/uskvbl.csv | bin/csv2rpz.sh > rpz/uskvbl.csv
+        run: cat csv/uskvbl.csv | bin/csv2rpz.sh > rpz/uskvbl.rpz
 
       - name: generate Dezinfo RPZ
-        run: cat csv/dezinfo.csv | bin/csv2rpz.sh > rpz/dezinfo.csv
+        run: cat csv/dezinfo.csv | bin/csv2rpz.sh > rpz/dezinfo.rpz
 
       - name: generate all RPZ to one file
-        run: cat csv/*.csv | bin/csv2rpz.sh > rpz/all.csv
+        run: cat csv/*.csv | bin/csv2rpz.sh > rpz/all.rpz
 
       - name: setup git config
         run: |

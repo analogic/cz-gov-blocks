@@ -10,6 +10,7 @@ article="https://www.mfcr.cz${article}"
 file=`wget -q ${article} -O - | perl -lne 'print $1 if /a href="(.*?\.csv.*?)"/' | head -n 1`
 file="https://www.mfcr.cz${file}"
 
-wget -q ${file} -O original/mfcr.csv
+wget -q "${file}" -O original/mfcr.csv
 
 cat original/mfcr.csv | tail -n +2 | awk -F";" '{print $1}' > csv/mfcr.csv
+

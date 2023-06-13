@@ -2,6 +2,7 @@ name: daily
 run-name: daily collecting data from gov pages
 
 on:
+  workflow_dispatch
   schedule:
     - cron:  '30 0 * * *'
 

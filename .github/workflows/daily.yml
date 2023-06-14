@@ -32,11 +32,14 @@ jobs:
           cat csv/uskvbl.csv | bin/csv2rpz.sh > rpz/uskvbl.rpz
           cat csv/dezinfo.csv | bin/csv2rpz.sh > rpz/dezinfo.rpz
           cat csv/*.csv | bin/csv2rpz.sh > rpz/all.rpz
-          
+
+      - name: smoke check
+        run: bin/check.sh
+
       - name: get current date
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
-        
+
       - name: GIT commit
         run: |
           git config user.name "GitHub Actions Bot"

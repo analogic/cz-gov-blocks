@@ -45,8 +45,12 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
 
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+        
       - name: commit
         run: |
           git add -A
-          git commit -m "daily commit"
+          git commit -m "daily commit ${{ steps.date.outputs.date }}"
           git push origin master

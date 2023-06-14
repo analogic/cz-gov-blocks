@@ -22,5 +22,5 @@ file="https://www.mfcr.cz${file}"
 
 wget "${file}" -O original/mfcr.csv
 
-cat original/mfcr.csv | tail -n +2 | awk -F";" '{print $1}' > csv/mfcr.csv
+cat original/mfcr.csv | tail -n +2 | awk -F";" '{print $1}' | sed 's/ //g' > csv/mfcr.csv
 

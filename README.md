@@ -10,7 +10,6 @@ Zdroje
 - MFČR - Seznam nepovolených internetových her, https://www.mfcr.cz/assets/cs/media/Zverejnovane-udaje-ze-Seznamu-nepovolenych-internetovych
 - SÚKL - Internetové stránky s nelegálními nabídkami neschválených přípravků, https://www.sukl.cz/leciva/webove-stranky-s-nelegalnimi-nabidkami-leciv
 - ÚSKVBL -  Seznam stránek s nelegální nabídkou VLP, https://uskvbl.cz/cs/inspekce/nelegalni-vlp
-- dezinfo - CZ.NIC & NIX.CZ 2022
 
 Výstupy
 -------
@@ -34,7 +33,6 @@ Resources
 - MFČR - List of unauthorized Internet games, https://www.mfcr.cz/assets/cs/media/Zverejnovane-udaje-ze-Seznamu-nepovolenych-internetovych
 - SÚKL - Website with illegal offers of unapproved products, https://www.sukl.cz/leciva/webove-stranky-s-nelegalnimi-nabidkami-leciv
 - ÚSKVBL - List of websites with illegal offer of VLP, https://uskvbl.cz/cs/inspekce/nelegalni-vlp
-- dezinfo - CZ.NIC & NIX.CZ 2022
 
 Outputs
 -------

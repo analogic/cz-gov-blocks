@@ -3,7 +3,7 @@
 set -ex
 
 # naively find link to the article
-article=`wget --inet4-only https://www.mfcr.cz/cs/soukromy-sektor/hazardni-hry/seznam-nepovolenych-internetovych-her -O - | perl -lne 'print $1 if /a href="(.*?seznam.*?)"/' | head -n 1`
+article=`wget --inet4-only https://www.mfcr.cz/cs/soukromy-sektor/hazardni-hry/seznam-nepovolenych-internetovych-her -O - | perl -lne 'print $1 if /a href="(.*?\/zverejnovane-udaje.*?)"/' | head -n 1`
 if [ -z "$article" ]
 then
     echo "parser error"

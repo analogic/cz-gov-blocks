@@ -2,7 +2,8 @@
 
 set -ex
 
-curl ifconfig.me
+curl ifconfig.me > /tmp/ip
+cat /tmp/ip
 
 # naively find link to the article
 article=`wget https://nahraj.to/mfcr.php?url=/cs/soukromy-sektor/hazardni-hry/seznam-nepovolenych-internetovych-her -O - | perl -lne 'print $1 if /a href="(.*?\/zverejnovane-udaje.*?)"/' | head -n 1`

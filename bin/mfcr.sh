@@ -2,26 +2,23 @@
 
 set -ex
 
-curl ifconfig.me > /tmp/ip
-cat /tmp/ip
-
 # naively find link to the article
-article=`wget https://nahraj.to/mfcr.php?url=/cs/soukromy-sektor/hazardni-hry/seznam-nepovolenych-internetovych-her -O - | perl -lne 'print $1 if /a href="(.*?\/zverejnovane-udaje.*?)"/' | head -n 1`
+article=`wget --inet4-only https://www.mfcr.cz/cs/soukromy-sektor/hazardni-hry/seznam-nepovolenych-internetovych-her -O - | perl -lne 'print $1 if /a href="(.*?\/zverejnovane-udaje.*?)"/' | head -n 1`
 if [ -z "$article" ]
 then
     echo "parser error"
     exit 1
 fi
-article="https://nahraj.to/mfcr.php?url=${article}"
+article="https://www.mfcr.cz${article}"
 
 # find link to csv
-file=`wget ${article} -O - | perl -lne 'print $1 if /a href="(.*?\.csv.*?)"/' | head -n 1`
+file=`wget --inet4-only ${article} -O - | perl -lne 'print $1 if /a href="(.*?\.csv.*?)"/' | head -n 1`
 if [ -z "$file" ]
 then
     echo "parser error"
     exit 1
 fi
-file="https://nahraj.to/mfcr.php?url=${file}"
+file="https://www.mfcr.cz${file}"
 
 wget --inet4-only "${file}" -O original/mfcr.csv
 

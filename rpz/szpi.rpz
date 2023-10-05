@@ -1,0 +1,13 @@
+$TTL 60
+@           IN SOA  localhost. root.localhost.  (
+            2   ; serial
+            3H  ; refresh
+            1H  ; retry
+            1W  ; expiry
+            1H) ; minimum
+      IN    NS    localhost.
+
+americansupplements.eu CNAME .
+*.americansupplements.eu CNAME .
+us-supplements.to CNAME .
+*.us-supplements.to CNAME .

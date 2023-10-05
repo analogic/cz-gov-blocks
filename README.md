@@ -33,6 +33,7 @@ Resources
 - MFČR - List of unauthorized Internet games, https://www.mfcr.cz/assets/cs/media/Zverejnovane-udaje-ze-Seznamu-nepovolenych-internetovych
 - SÚKL - Website with illegal offers of unapproved products, https://www.sukl.cz/leciva/webove-stranky-s-nelegalnimi-nabidkami-leciv
 - ÚSKVBL - List of websites with illegal offer of VLP, https://uskvbl.cz/cs/inspekce/nelegalni-vlp
+- SZPI - List of websites offering unsafe food, https://www.szpi.gov.cz/clanek/seznam-blokovanych-webu.aspx
 
 Outputs
 -------

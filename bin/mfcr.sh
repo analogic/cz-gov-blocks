@@ -22,5 +22,5 @@ file="https://www.mfcr.cz${file}"
 
 wget --inet4-only "${file}" -O original/mfcr.csv
 
-cat original/mfcr.csv | tail -n +2 | awk -F";" '$3 == "" {print $1}' | sed 's/ //g' | uniq > csv/mfcr.csv
+cat original/mfcr.csv | tail -n +2 | awk -F";" '$3 == "" {print $1}' | sed 's/ //g' | sort | uniq > csv/mfcr.csv
 

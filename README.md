@@ -10,6 +10,7 @@ Zdroje
 - MFČR - Seznam nepovolených internetových her, https://www.mfcr.cz/assets/cs/media/Zverejnovane-udaje-ze-Seznamu-nepovolenych-internetovych
 - SÚKL - Internetové stránky s nelegálními nabídkami neschválených přípravků, https://www.sukl.cz/leciva/webove-stranky-s-nelegalnimi-nabidkami-leciv
 - ÚSKVBL -  Seznam stránek s nelegální nabídkou VLP, https://uskvbl.cz/cs/inspekce/nelegalni-vlp
+- SZPI - Weby s nabídkou nebezpečných potravin, https://www.szpi.gov.cz/clanek/seznam-blokovanych-webu.aspx
 
 Výstupy
 -------

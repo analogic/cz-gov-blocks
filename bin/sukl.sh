@@ -6,7 +6,7 @@ wget -q https://opendata.sukl.cz/soubory/NELEGALNI_STRANKY/Nelegalni_stranky_LP.
 
 cat original/sukl.csv \
   | tail -n +2 \
-  | awk -F"," '{print $1}' \
+  | awk -F"," 'length($3) <= 2 {print $1}' \
   | awk '{print substr($0, 2, length($0) - 2)}' \
   | sed 's/ //g' > csv/sukl.csv
 

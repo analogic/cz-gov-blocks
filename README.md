@@ -1,7 +1,7 @@
 CZ-GOV-BLOCKS
 =============
 
-Nástroj určený zejména pro účely ISP a archivaci blokovaných domén dle příslušných zákonů ČR.
+Nástroj určený zejména pro účely ISP a archivaci blokovaných domén dle příslušných zákonů ČR. Autor není zodpovědný za škody způsobené použitím tohoto repozitáře nebo informací v něm obsažených.
 
 Aktualizace dat je prováděna automatickým spuštěním každý den pomocí [skriptu GitHub Actions](https://github.com/analogic/cz-gov-blocks/blob/master/.github/workflows/daily.yml)
 
@@ -25,7 +25,7 @@ Při použití všech seznamů stačí pouze denně stahovat soubor [all.rpz](ht
 CZ-GOV-BLOCKS
 =============
 
-A tool designed especially for ISP purposes and archiving of blocked domains according to the relevant laws of the Czech Republic.
+A tool designed especially for ISP purposes and archiving of blocked domains according to the relevant laws of the Czech Republic. The author is not responsible for any damage caused by the use of this repository or the information contained therein.
 
 Data update is performed by automatic launching every day using [GitHub Actions script](https://github.com/analogic/cz-gov-blocks/blob/master/.github/workflows/daily.yml)
 

@@ -7,3 +7,11 @@ $TTL 60
             1H) ; minimum
       IN    NS    localhost.
 
+www.blissforcats.com CNAME .
+*.www.blissforcats.com CNAME .
+www.curefip.com CNAME .
+*.www.curefip.com CNAME .
+www.fipsupport.com CNAME .
+*.www.fipsupport.com CNAME .
+www.fipcats.com CNAME .
+*.www.fipcats.com CNAME .

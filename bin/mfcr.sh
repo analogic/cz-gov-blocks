@@ -2,6 +2,10 @@
 
 set -ex
 
+# get github's IP address
+curl ifconfig.me > /tmp/ip
+cat /tmp/ip
+
 # naively find link to the article
 article=`wget --inet4-only https://www.mfcr.cz/cs/kontrola-a-regulace/hazardni-hry/seznam-nepovolenych-internetovych-her -O - | perl -lne 'print $1 if /a href="([^"]*?\/zverejnovane-udaje[^"]*?)"/' | head -n 1`
 if [ -z "$article" ]

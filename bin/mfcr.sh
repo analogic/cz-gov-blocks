@@ -2,10 +2,6 @@
 
 set -ex
 
-# get github's IP address
-curl ifconfig.me > /tmp/ip
-cat /tmp/ip
-
 proxy="https://analogic.cz/mfcr.php?url="
 
 # naively find link to the article
@@ -32,7 +28,5 @@ cat original/mfcr.csv \
     | tail -n +2 \
     | sed 's/[\xa7\x0d ]//g' \
     | awk -F";" '$8 == "" {print $2}' \
-    | sort \
-    | uniq \
 > csv/mfcr.csv
 

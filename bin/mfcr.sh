@@ -29,5 +29,7 @@ cat original/mfcr.csv \
     | sed 's/[\xa7\x0d ]//g' \
     | awk -F";" '$8 == "" {print $2}' \
     | grep "\S" \
+    | sort \
+    | uniq \
 > csv/mfcr.csv
 

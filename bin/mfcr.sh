@@ -28,5 +28,6 @@ cat original/mfcr.csv \
     | tail -n +2 \
     | sed 's/[\xa7\x0d ]//g' \
     | awk -F";" '$8 == "" {print $2}' \
+    | grep "\S" \
 > csv/mfcr.csv
 

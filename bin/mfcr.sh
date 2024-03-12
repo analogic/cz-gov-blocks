@@ -30,10 +30,8 @@ wget --inet4-only "${file}" -O original/mfcr.csv
 
 cat original/mfcr.csv \
     | tail -n +2 \
-    | sed 's/\xa7//g' \
-    | sed 's/\x0d//g' \
+    | sed 's/[\xa7\x0d ]//g' \
     | awk -F";" '$8 == "" {print $2}' \
-    | sed 's/ //g' \
     | sort \
     | uniq \
 > csv/mfcr.csv

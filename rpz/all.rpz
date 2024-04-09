@@ -55,6 +55,8 @@ $TTL 60
 *.1good.bet CNAME .
 1neon54.com CNAME .
 *.1neon54.com CNAME .
+1spinbetter.store CNAME .
+*.1spinbetter.store CNAME .
 1x-02.com CNAME .
 *.1x-02.com CNAME .
 1x-bet.com CNAME .
@@ -333,6 +335,8 @@ $TTL 60
 *.2fortuneclock.club CNAME .
 2neon54.com CNAME .
 *.2neon54.com CNAME .
+2spinbetter.store CNAME .
+*.2spinbetter.store CNAME .
 300tsars.com CNAME .
 *.300tsars.com CNAME .
 33tsars.com CNAME .
@@ -343,6 +347,8 @@ $TTL 60
 *.3neon54.com CNAME .
 3richyfish.com CNAME .
 *.3richyfish.com CNAME .
+3spinbetter.store CNAME .
+*.3spinbetter.store CNAME .
 44tsars.com CNAME .
 *.44tsars.com CNAME .
 4neon54.com CNAME .
@@ -1383,8 +1389,12 @@ nomini17.com CNAME .
 *.nomini17.com CNAME .
 nomini18.com CNAME .
 *.nomini18.com CNAME .
+nomini19.com CNAME .
+*.nomini19.com CNAME .
 nomini2.com CNAME .
 *.nomini2.com CNAME .
+nomini22.com CNAME .
+*.nomini22.com CNAME .
 nomini3.com CNAME .
 *.nomini3.com CNAME .
 nomini4.com CNAME .
@@ -1607,6 +1617,8 @@ richyfish2.online CNAME .
 *.richyfish2.online CNAME .
 richyfish4.com CNAME .
 *.richyfish4.com CNAME .
+roobet.com CNAME .
+*.roobet.com CNAME .
 scatterhall.com CNAME .
 *.scatterhall.com CNAME .
 sgcasino.com CNAME .
@@ -1659,6 +1671,12 @@ spassino.com CNAME .
 *.spassino.com CNAME .
 spin-better.com CNAME .
 *.spin-better.com CNAME .
+spin1better.club CNAME .
+*.spin1better.club CNAME .
+spin1better.online CNAME .
+*.spin1better.online CNAME .
+spin2better.online CNAME .
+*.spin2better.online CNAME .
 spinamba.com CNAME .
 *.spinamba.com CNAME .
 spinbetter.com CNAME .

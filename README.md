@@ -11,6 +11,7 @@ Zdroje
 - SÚKL - Internetové stránky s nelegálními nabídkami neschválených přípravků, https://www.sukl.cz/leciva/webove-stranky-s-nelegalnimi-nabidkami-leciv
 - ÚSKVBL -  Seznam stránek s nelegální nabídkou VLP, https://uskvbl.cz/cs/inspekce/nelegalni-vlp
 - SZPI - Weby s nabídkou nebezpečných potravin, https://www.szpi.gov.cz/clanek/seznam-blokovanych-webu.aspx
+- Jiné - Ručně spravovaný, momentálně obsahuje pouze dvě adresy z vnitrostátního sankčního seznamu a testovací web blokovane.internetovehazardnihry.cz
 
 Výstupy
 -------
@@ -35,6 +36,7 @@ Resources
 - SÚKL - Website with illegal offers of unapproved products, https://www.sukl.cz/leciva/webove-stranky-s-nelegalnimi-nabidkami-leciv
 - ÚSKVBL - List of websites with illegal offer of VLP, https://uskvbl.cz/cs/inspekce/nelegalni-vlp
 - SZPI - List of websites offering unsafe food, https://www.szpi.gov.cz/clanek/seznam-blokovanych-webu.aspx
+- Other - Manually managed, currently contains only two addresses from the national sanctions list and test site blokovane.internetovehazardnihry.cz
 
 Outputs
 -------

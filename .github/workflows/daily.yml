@@ -28,12 +28,16 @@ jobs:
       - name: SZPI data
         run: bin/szpi.sh
 
+      - name: Others
+        run: bin/others.sh
+
       - name: generate RPZs
         run: |
           cat csv/mfcr.csv | bin/csv2rpz.sh > rpz/mfcr.rpz
           cat csv/sukl.csv | bin/csv2rpz.sh > rpz/sukl.rpz
           cat csv/uskvbl.csv | bin/csv2rpz.sh > rpz/uskvbl.rpz
           cat csv/szpi.csv | bin/csv2rpz.sh > rpz/szpi.rpz
+          cat csv/others.csv | bin/csv2rpz.sh > rpz/others.rpz
           cat csv/*.csv | bin/csv2rpz.sh > rpz/all.rpz
 
       - name: smoke check

@@ -373,6 +373,8 @@ $TTL 60
 *.2spinbetter.store CNAME .
 300tsars.com CNAME .
 *.300tsars.com CNAME .
+31bet.com CNAME .
+*.31bet.com CNAME .
 33tsars.com CNAME .
 *.33tsars.com CNAME .
 3bonusstrike.com CNAME .
@@ -1667,6 +1669,8 @@ playamo.com CNAME .
 *.playamo.com CNAME .
 playdingo.com CNAME .
 *.playdingo.com CNAME .
+playsafecz.com CNAME .
+*.playsafecz.com CNAME .
 polestarcasino.com CNAME .
 *.polestarcasino.com CNAME .
 polestarcasino1.com CNAME .

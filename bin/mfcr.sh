@@ -2,7 +2,7 @@
 
 set -ex
 
-proxy="https://analogic.cz/mfcr.php?url="
+proxy="https://poste.io/mfcr.php?url="
 
 # naively find link to the article
 article=`wget --inet4-only ${proxy}/cs/kontrola-a-regulace/hazardni-hry/seznam-nepovolenych-internetovych-her -O - | perl -lne 'print $1 if /a href="([^"]*?\/zverejnovane-udaje[^"]*?)"/' | head -n 1`

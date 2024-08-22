@@ -279,6 +279,8 @@ $TTL 60
 *.200zencasino.com CNAME .
 20bet-bet.com CNAME .
 *.20bet-bet.com CNAME .
+20bet-s.com CNAME .
+*.20bet-s.com CNAME .
 20bet.com CNAME .
 *.20bet.com CNAME .
 20bet1.com CNAME .
@@ -1985,6 +1987,8 @@ rollingslots9.com CNAME .
 *.rollingslots9.com CNAME .
 roobet.com CNAME .
 *.roobet.com CNAME .
+sazeni-online.eu CNAME .
+*.sazeni-online.eu CNAME .
 scatterhall.com CNAME .
 *.scatterhall.com CNAME .
 sgcasino-0957.com CNAME .

@@ -7,6 +7,8 @@ $TTL 60
             1H) ; minimum
       IN    NS    localhost.
 
+0hmyspins-0234.com CNAME .
+*.0hmyspins-0234.com CNAME .
 1-x-bet.com CNAME .
 *.1-x-bet.com CNAME .
 100neon54.com CNAME .
@@ -635,6 +637,8 @@ bankonbet1.com CNAME .
 *.bankonbet1.com CNAME .
 bankonbet100.com CNAME .
 *.bankonbet100.com CNAME .
+bankonbet2.com CNAME .
+*.bankonbet2.com CNAME .
 bankonbet3.com CNAME .
 *.bankonbet3.com CNAME .
 bankonbet4.com CNAME .
@@ -2311,6 +2315,10 @@ spinsbro7.com CNAME .
 *.spinsbro7.com CNAME .
 sportaza.com CNAME .
 *.sportaza.com CNAME .
+sportaza.eu CNAME .
+*.sportaza.eu CNAME .
+sportaza.info CNAME .
+*.sportaza.info CNAME .
 sportaza1.com CNAME .
 *.sportaza1.com CNAME .
 sportaza10.com CNAME .
@@ -2319,6 +2327,8 @@ sportaza100.com CNAME .
 *.sportaza100.com CNAME .
 sportaza101.com CNAME .
 *.sportaza101.com CNAME .
+sportaza11.com CNAME .
+*.sportaza11.com CNAME .
 sportaza12.com CNAME .
 *.sportaza12.com CNAME .
 sportaza13.com CNAME .
@@ -2329,8 +2339,12 @@ sportaza16.com CNAME .
 *.sportaza16.com CNAME .
 sportaza2.com CNAME .
 *.sportaza2.com CNAME .
+sportaza24.com CNAME .
+*.sportaza24.com CNAME .
 sportaza3.com CNAME .
 *.sportaza3.com CNAME .
+sportaza3.it CNAME .
+*.sportaza3.it CNAME .
 sportaza4.com CNAME .
 *.sportaza4.com CNAME .
 sportaza5.com CNAME .
@@ -2343,6 +2357,12 @@ sportaza8.com CNAME .
 *.sportaza8.com CNAME .
 sportaza9.com CNAME .
 *.sportaza9.com CNAME .
+sportaza9.it CNAME .
+*.sportaza9.it CNAME .
+sportazabet.com CNAME .
+*.sportazabet.com CNAME .
+sportazabet.cz CNAME .
+*.sportazabet.cz CNAME .
 sportingbull.com CNAME .
 *.sportingbull.com CNAME .
 sportuna.com CNAME .

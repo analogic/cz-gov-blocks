@@ -12,7 +12,8 @@ echo "\$TTL 60
 
 while read line
 do
-  echo "$line CNAME ."
-  echo "*.$line CNAME ."
+  punycode=$(idn "$line")
+  echo "$punycode CNAME ."
+  echo "*.$punycode CNAME ."
 done < "${1:-/dev/stdin}"
 

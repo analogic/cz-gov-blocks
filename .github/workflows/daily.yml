@@ -12,6 +12,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
+      - name: install IDN
+        run: sudo apt install -y idn
+
+
       # Checkout the branch
       - name: checkout
         uses: actions/checkout@v4

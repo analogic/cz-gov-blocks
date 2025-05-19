@@ -2,7 +2,7 @@
 
 set -x
 
-out=`egrep -v '^[a-zA-Z0-9\.-]+$' csv/*.csv`
+out=`egrep -v '^[^[:space:]]+$' csv/*.csv`
 
 set -ex
 

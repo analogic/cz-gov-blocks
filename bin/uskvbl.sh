@@ -2,7 +2,7 @@
 
 set -ex
 
-article="https://uskvbl.cz/cs/inspekce/nelegalni-vlp"
+article="https://www.uskvbl.cz/cs/databaze-a-seznamy/seznam-stranek-s-nelegalni-nabidkou-vlp"
 
 file=`wget -q ${article} -O - | perl -lne 'print $1 if /href="(.*?\.csv)"/'`
 

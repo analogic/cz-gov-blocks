@@ -1,4 +1,4 @@
-Objekt blokace;Adresa internetové stránky;Název aplikace;Identifikátor aplikace;Jedineèný identifikátor platebního úètu;Dùvody zápisu na Seznam;Datum zápisu a zveøejnìní na Seznamu ;Datum výmazu a zveøejnìní na Seznamu
+Objekt blokace;Adresa internetové stránky;Název aplikace;"Identifikátor aplikace; umístìní aplikace";Jedineèný identifikátor platebního úètu;Dùvody zápisu na Seznam;Datum zápisu a zveøejnìní na Seznamu ;Datum výmazu a zveøejnìní na Seznamu
 Internetová stránka;1xbet.com;;;;§ 84a odst. 2 písm. a) ZHH;26.07.2017;04.01.2023
 Platební úèet;;;;5990242/0800;§ 84b odst. 2 ZHH;26.07.2017;28.04.2021
 Internetová stránka;thelotter.com;;;;§ 84a odst. 2 písm. a) ZHH;15.08.2017;
@@ -2237,3 +2237,30 @@ Internetová stránka;spinarium4.com;;;;§ 84a odst. 2 písm. a) ZHH;15.12.2025;
 Internetová stránka;spinarium5.com;;;;§ 84a odst. 2 písm. a) ZHH;15.12.2025;
 Internetová stránka;superb.bet;;;;§ 84a odst. 2 písm. a) ZHH;15.12.2025;
 Internetová stránka;superb1.bet;;;;§ 84a odst. 2 písm. a) ZHH;15.12.2025;
+Internetová stránka;spinmybonus.com ;;;;§ 84a odst. 2 písm. b) ZHH;22.12.2025;
+Internetová stránka;frumzi-1101.com ;;;;§ 84a odst. 2 písm. a) ZHH;22.12.2025;
+Internetová stránka;frumzi-1111.com;;;;§ 84a odst. 2 písm. a) ZHH;22.12.2025;
+Internetová stránka;spinbara.com ;;;;§ 84a odst. 2 písm. a) ZHH;22.12.2025;
+Internetová stránka;spinbara1.com ;;;;§ 84a odst. 2 písm. a) ZHH;22.12.2025;
+Internetová stránka;spinbara2.com ;;;;§ 84a odst. 2 písm. a) ZHH;22.12.2025;
+Internetová stránka;spinbara3.com;;;;§ 84a odst. 2 písm. a) ZHH;22.12.2025;
+Internetová stránka;spinbara100.com;;;;§ 84a odst. 2 písm. a) ZHH;22.12.2025;
+Internetová stránka;divaspin.com ;;;;§ 84a odst. 2 písm. a) ZHH;22.12.2025;
+Internetová stránka;divaspin1.com ;;;;§ 84a odst. 2 písm. a) ZHH;22.12.2025;
+Internetová stránka;divaspin2.com ;;;;§ 84a odst. 2 písm. a) ZHH;22.12.2025;
+Internetová stránka;divaspin3.com ;;;;§ 84a odst. 2 písm. a) ZHH;22.12.2025;
+Internetová stránka;divaspin100.com;;;;§ 84a odst. 2 písm. a) ZHH;22.12.2025;
+Internetová stránka;wishwin.com;;;;§ 84a odst. 2 písm. a) ZHH;22.12.2025;
+Internetová stránka;wishwin1.com ;;;;"§ 84a odst. 2 písm. a); § 84a odst. 2 písm. b)";22.12.2025;
+Internetová stránka;wishwin2.com ;;;;§ 84a odst. 2 písm. a) ZHH;22.12.2025;
+Internetová stránka;wishwin3.com ;;;;§ 84a odst. 2 písm. a) ZHH;22.12.2025;
+Internetová stránka;wishwin100.com ;;;;§ 84a odst. 2 písm. a) ZHH;22.12.2025;
+Internetová stránka;admiral.plinko-many.com;;;;§ 84a odst. 2 písm. b) ZHH;22.12.2025;
+Internetová stránka;playrush-slot.club;;;;§ 84a odst. 2 písm. b) ZHH;22.12.2025;
+Internetová stránka;game-roulettekeno.click;;;;§ 84a odst. 2 písm. b) ZHH;22.12.2025;
+Internetová stránka;greatcasinovegas.click;;;;§ 84a odst. 2 písm. b) ZHH;22.12.2025;
+Aplikace;;Wishwin Casino;"olfkkodopnjdgggbejefiiaimbnkceko; wishwin1.com";;§ 84c odst. 2 písm. a) ZHH;22.12.2025;
+Aplikace;;Hot Chilli Bells;"phlajdampnipoifbofnnjahmdcainbmf; greatcasinovegas.click";;§ 84c odst. 2 písm. b) ZHH;22.12.2025;
+Aplikace;;Admiral Casino;"necmleanpndmaakbagjiemdedokemfg; admiral.plinko-many.com";;§ 84c odst. 2 písm. b) ZHH;22.12.2025;
+Aplikace;;Admiral Casino;"necmleanpndmaakbagjiemdedokemfg; playrush-slot.club";;§ 84c odst. 2 písm. b) ZHH;22.12.2025;
+Aplikace;;Admiral Casino;"necmleanpndmaakbagjiemdedokemfg; game-roulettekeno.click";;§ 84c odst. 2 písm. b) ZHH;22.12.2025;

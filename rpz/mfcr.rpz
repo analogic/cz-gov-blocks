@@ -283,6 +283,10 @@ $TTL 60
 *.1xbetbk13.com CNAME .
 1xbetbk6.com CNAME .
 *.1xbetbk6.com CNAME .
+1xbitx1.com CNAME .
+*.1xbitx1.com CNAME .
+1xbitx2.com CNAME .
+*.1xbitx2.com CNAME .
 1xbkbet-1.com CNAME .
 *.1xbkbet-1.com CNAME .
 1zenbetting.com CNAME .
@@ -1213,8 +1217,12 @@ billybets.com CNAME .
 *.billybets.com CNAME .
 billybets1.com CNAME .
 *.billybets1.com CNAME .
+billybets10.com CNAME .
+*.billybets10.com CNAME .
 billybets100.com CNAME .
 *.billybets100.com CNAME .
+billybets11.com CNAME .
+*.billybets11.com CNAME .
 billybets2.com CNAME .
 *.billybets2.com CNAME .
 billybets3.com CNAME .
@@ -1223,6 +1231,10 @@ billybets4.com CNAME .
 *.billybets4.com CNAME .
 billybets5.com CNAME .
 *.billybets5.com CNAME .
+billybets6.com CNAME .
+*.billybets6.com CNAME .
+billybets9.com CNAME .
+*.billybets9.com CNAME .
 bitstarz.com CNAME .
 *.bitstarz.com CNAME .
 bitstarz28.com CNAME .
@@ -3637,6 +3649,8 @@ quickwin-1084.com CNAME .
 *.quickwin-1084.com CNAME .
 quickwin-1376.com CNAME .
 *.quickwin-1376.com CNAME .
+quickwin-1424.com CNAME .
+*.quickwin-1424.com CNAME .
 quickwin-1724.com CNAME .
 *.quickwin-1724.com CNAME .
 quickwin-1867.com CNAME .
@@ -3831,6 +3845,12 @@ reddice.com CNAME .
 *.reddice.com CNAME .
 redonbet.cz CNAME .
 *.redonbet.cz CNAME .
+redstarbets.eu CNAME .
+*.redstarbets.eu CNAME .
+redstarcasino.eu CNAME .
+*.redstarcasino.eu CNAME .
+redstarpoker.com CNAME .
+*.redstarpoker.com CNAME .
 rembrandtcasino.com CNAME .
 *.rembrandtcasino.com CNAME .
 respin.bet CNAME .
@@ -5121,6 +5141,8 @@ xxiibet.sk CNAME .
 *.xxiibet.sk CNAME .
 yummywins.com CNAME .
 *.yummywins.com CNAME .
+yzwsiulmb.com CNAME .
+*.yzwsiulmb.com CNAME .
 z7zn8i9zujmb.com CNAME .
 *.z7zn8i9zujmb.com CNAME .
 zenbetting.com CNAME .

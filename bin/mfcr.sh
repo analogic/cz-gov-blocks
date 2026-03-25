@@ -2,16 +2,14 @@
 
 set -ex
 
-proxy="https://poste.io/mfcr.php?url="
-
 # naively find link to the article
-article=`wget --inet4-only ${proxy}/cs/kontrola-a-regulace/hazardni-hry/seznam-nepovolenych-internetovych-her -O - | perl -lne 'print $1 if /a href="([^"]*?\/zverejnovane-udaje[^"]*?)"/' | head -n 1`
+article=`wget --inet4-only https://mf.gov.cz/cs/kontrola-a-regulace/hazardni-hry/blokace-nepovolenych-internetovych-her/verejna-cast-seznamu-nepovolenych-internetovych-he -O - | perl -lne 'print $1 if /a href="([^"]*?\/zverejnovane-udaje[^"]*?)"/' | head -n 1`
 if [ -z "$article" ]
 then
     echo "parser error"
     exit 1
 fi
-article="${proxy}${article}"
+article="https://mf.gov.cz${article}"
 
 # find link to csv
 file=`wget --inet4-only ${article} -O - | perl -lne 'print $1 if /a href="([^"]*?\.csv[^"]*?)"/' | head -n 1`
@@ -20,7 +18,7 @@ then
     echo "parser error"
     exit 1
 fi
-file="${proxy}${file}"
+file="https://mf.gov.cz${file}"
 
 wget --inet4-only "${file}" -O original/mfcr.csv
 

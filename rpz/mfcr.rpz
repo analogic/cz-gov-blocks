@@ -35,6 +35,8 @@ $TTL 60
 *.103tsars.com CNAME .
 104tsars.com CNAME .
 *.104tsars.com CNAME .
+1054063mp.pro CNAME .
+*.1054063mp.pro CNAME .
 105tsars.com CNAME .
 *.105tsars.com CNAME .
 106tsars.com CNAME .
@@ -769,6 +771,10 @@ $TTL 60
 *.3spinbetter.store CNAME .
 44tsars.com CNAME .
 *.44tsars.com CNAME .
+4552893mp.pro CNAME .
+*.4552893mp.pro CNAME .
+4680284mp.pro CNAME .
+*.4680284mp.pro CNAME .
 48belimb.com CNAME .
 *.48belimb.com CNAME .
 4joker8.com CNAME .
@@ -1007,8 +1013,14 @@ alfcasino9.com CNAME .
 *.alfcasino9.com CNAME .
 allyspin-8762.com CNAME .
 *.allyspin-8762.com CNAME .
+allyspin-9896.com CNAME .
+*.allyspin-9896.com CNAME .
+allyspin-cz.com CNAME .
+*.allyspin-cz.com CNAME .
 allyspin.com CNAME .
 *.allyspin.com CNAME .
+allyspin.eu CNAME .
+*.allyspin.eu CNAME .
 allyspin1.com CNAME .
 *.allyspin1.com CNAME .
 allyspin100.com CNAME .
@@ -1017,6 +1029,8 @@ allyspin2.com CNAME .
 *.allyspin2.com CNAME .
 allyspin3.com CNAME .
 *.allyspin3.com CNAME .
+allyspinkasino.cz CNAME .
+*.allyspinkasino.cz CNAME .
 ampmcasino.vip CNAME .
 *.ampmcasino.vip CNAME .
 amunra-4184.com CNAME .
@@ -1415,6 +1429,8 @@ bigclash-4522.com CNAME .
 *.bigclash-4522.com CNAME .
 bigclash-4949.com CNAME .
 *.bigclash-4949.com CNAME .
+bigclash-8112.com CNAME .
+*.bigclash-8112.com CNAME .
 bigclash.com CNAME .
 *.bigclash.com CNAME .
 billybets.com CNAME .
@@ -3365,6 +3381,8 @@ lamabet8.com CNAME .
 *.lamabet8.com CNAME .
 lamabet9.com CNAME .
 *.lamabet9.com CNAME .
+lanista-4806.com CNAME .
+*.lanista-4806.com CNAME .
 lanista.com CNAME .
 *.lanista.com CNAME .
 lanista1.com CNAME .
@@ -4619,6 +4637,8 @@ ph.casino CNAME .
 *.ph.casino CNAME .
 pistolo-1771.com CNAME .
 *.pistolo-1771.com CNAME .
+pistolo-3325.com CNAME .
+*.pistolo-3325.com CNAME .
 pistolo-6252.com CNAME .
 *.pistolo-6252.com CNAME .
 pistolo-6571.com CNAME .
@@ -4685,6 +4705,8 @@ playglobal6.com CNAME .
 *.playglobal6.com CNAME .
 playglobal7.com CNAME .
 *.playglobal7.com CNAME .
+playid.com CNAME .
+*.playid.com CNAME .
 playio-1272.com CNAME .
 *.playio-1272.com CNAME .
 playio-7855.com CNAME .
@@ -6705,6 +6727,8 @@ xxiibet.cz CNAME .
 *.xxiibet.cz CNAME .
 xxiibet.sk CNAME .
 *.xxiibet.sk CNAME .
+yesvip.cz CNAME .
+*.yesvip.cz CNAME .
 yummywins.com CNAME .
 *.yummywins.com CNAME .
 yzwsiulmb.com CNAME .

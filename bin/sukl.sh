@@ -8,5 +8,4 @@ cat original/sukl.csv \
   | tail -n +2 \
   | awk -F"," 'length($3) <= 2 {print $1}' \
   | awk '{print substr($0, 2, length($0) - 2)}' \
-  | sed 's/ //g' > csv/sukl.csv
-
+  | sed -E 's/^https?:\/\///; s/\/$//; s/ //g' > csv/sukl.csv

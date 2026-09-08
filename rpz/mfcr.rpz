@@ -433,10 +433,16 @@ $TTL 60
 *.22bet-bet.org CNAME .
 22bet-brasil.com CNAME .
 *.22bet-brasil.com CNAME .
+22bet-ceska.com CNAME .
+*.22bet-ceska.com CNAME .
 22bet-china.com CNAME .
 *.22bet-china.com CNAME .
+22bet-cz.cz CNAME .
+*.22bet-cz.cz CNAME .
 22bet-czech.com CNAME .
 *.22bet-czech.com CNAME .
+22bet-czech.cz CNAME .
+*.22bet-czech.cz CNAME .
 22bet-czechia.cz CNAME .
 *.22bet-czechia.cz CNAME .
 22bet-hungary.com CNAME .
@@ -491,6 +497,8 @@ $TTL 60
 *.22bet.si CNAME .
 22bet.sk CNAME .
 *.22bet.sk CNAME .
+22bet.team CNAME .
+*.22bet.team CNAME .
 22bet.tips CNAME .
 *.22bet.tips CNAME .
 22bet.today CNAME .
@@ -695,8 +703,12 @@ $TTL 60
 *.22bets.si CNAME .
 22bets1.com CNAME .
 *.22bets1.com CNAME .
+22bets11.com CNAME .
+*.22bets11.com CNAME .
 22bets2.com CNAME .
 *.22bets2.com CNAME .
+22bets22.com CNAME .
+*.22bets22.com CNAME .
 22bets3.com CNAME .
 *.22bets3.com CNAME .
 22betx1.com CNAME .
@@ -1179,6 +1191,8 @@ besteuonlinecasinos.com CNAME .
 *.besteuonlinecasinos.com CNAME .
 bestinvesting.app CNAME .
 *.bestinvesting.app CNAME .
+bet-22.cz CNAME .
+*.bet-22.cz CNAME .
 bet-andreas-cz.com CNAME .
 *.bet-andreas-cz.com CNAME .
 bet.lamabet1.com CNAME .
@@ -2179,6 +2193,8 @@ choicecasino.com CNAME .
 *.choicecasino.com CNAME .
 clash.gg CNAME .
 *.clash.gg CNAME .
+classic.everygame.eu CNAME .
+*.classic.everygame.eu CNAME .
 cleobetra-0101.com CNAME .
 *.cleobetra-0101.com CNAME .
 cleobetra-3236.com CNAME .
@@ -2429,6 +2445,8 @@ eurocommpr.at CNAME .
 *.eurocommpr.at CNAME .
 europebestcasinos.com CNAME .
 *.europebestcasinos.com CNAME .
+everygame.eu CNAME .
+*.everygame.eu CNAME .
 excitewin.com CNAME .
 *.excitewin.com CNAME .
 excitewin1.com CNAME .
@@ -3437,6 +3455,8 @@ legendplay6.com CNAME .
 *.legendplay6.com CNAME .
 legiano-0535.com CNAME .
 *.legiano-0535.com CNAME .
+legiano-7735.com CNAME .
+*.legiano-7735.com CNAME .
 legiano.com CNAME .
 *.legiano.com CNAME .
 legiano1.com CNAME .
@@ -3499,6 +3519,8 @@ librabet8.com CNAME .
 *.librabet8.com CNAME .
 librabet9.com CNAME .
 *.librabet9.com CNAME .
+liveweb.everygame.eu CNAME .
+*.liveweb.everygame.eu CNAME .
 lizaro.com CNAME .
 *.lizaro.com CNAME .
 lizaro1.com CNAME .
@@ -3511,6 +3533,8 @@ lizaro3.com CNAME .
 *.lizaro3.com CNAME .
 ljanvomb.com CNAME .
 *.ljanvomb.com CNAME .
+lobby.everygame.eu CNAME .
+*.lobby.everygame.eu CNAME .
 lobby.uptownaces.eu/lobby CNAME .
 *.lobby.uptownaces.eu/lobby CNAME .
 lokicasino.com CNAME .
@@ -5143,6 +5167,8 @@ robocatcasino.cz CNAME .
 *.robocatcasino.cz CNAME .
 robycasino-1310.com CNAME .
 *.robycasino-1310.com CNAME .
+robycasino-2812.com CNAME .
+*.robycasino-2812.com CNAME .
 robycasino-3348.com CNAME .
 *.robycasino-3348.com CNAME .
 robycasino1.com CNAME .
@@ -5203,6 +5229,10 @@ rollingslots7.com CNAME .
 *.rollingslots7.com CNAME .
 rollingslots9.com CNAME .
 *.rollingslots9.com CNAME .
+romibet-1000.com CNAME .
+*.romibet-1000.com CNAME .
+romibet-1001.com CNAME .
+*.romibet-1001.com CNAME .
 romibet.com CNAME .
 *.romibet.com CNAME .
 romibet1.com CNAME .
@@ -5923,6 +5953,8 @@ sportbet.io CNAME .
 *.sportbet.io CNAME .
 sportingbull.com CNAME .
 *.sportingbull.com CNAME .
+sports.everygame.eu CNAME .
+*.sports.everygame.eu CNAME .
 sportsbet.io CNAME .
 *.sportsbet.io CNAME .
 sportsbet40.io CNAME .
@@ -6175,6 +6207,8 @@ twentybet24x.com CNAME .
 *.twentybet24x.com CNAME .
 twentybetzone.com CNAME .
 *.twentybetzone.com CNAME .
+twentytwobet.com CNAME .
+*.twentytwobet.com CNAME .
 uddkjcmb.com CNAME .
 *.uddkjcmb.com CNAME .
 uk-gb.non-gamstop-betting.com CNAME .

@@ -939,6 +939,8 @@ $TTL 60
 *.8neon54.com CNAME .
 8only.win CNAME .
 *.8only.win CNAME .
+8x379ivbmb.com CNAME .
+*.8x379ivbmb.com CNAME .
 982-bdmbet.com CNAME .
 *.982-bdmbet.com CNAME .
 9joker8.com CNAME .
@@ -1121,6 +1123,8 @@ astromania3.com CNAME .
 *.astromania3.com CNAME .
 avocasino.com CNAME .
 *.avocasino.com CNAME .
+aze-most-bet.com CNAME .
+*.aze-most-bet.com CNAME .
 bankomatyvcr.cz CNAME .
 *.bankomatyvcr.cz CNAME .
 bankonbet-1203.com CNAME .
@@ -2639,6 +2643,8 @@ favbet911.com CNAME .
 *.favbet911.com CNAME .
 favbet999.com CNAME .
 *.favbet999.com CNAME .
+feeaqwhpmb.com CNAME .
+*.feeaqwhpmb.com CNAME .
 fezbet.com CNAME .
 *.fezbet.com CNAME .
 fezbet1.com CNAME .
@@ -3395,6 +3401,8 @@ key-drop3.com CNAME .
 *.key-drop3.com CNAME .
 key-drop4.com CNAME .
 *.key-drop4.com CNAME .
+kgofr2vkmb.com CNAME .
+*.kgofr2vkmb.com CNAME .
 kinbet-6341.com CNAME .
 *.kinbet-6341.com CNAME .
 kinbet-casino.cz CNAME .
@@ -4113,12 +4121,16 @@ mostbet-mosbet-br.com CNAME .
 *.mostbet-mosbet-br.com CNAME .
 mostbet-mosbet-colombia.com CNAME .
 *.mostbet-mosbet-colombia.com CNAME .
+mostbet-mosbet-cz-online.com CNAME .
+*.mostbet-mosbet-cz-online.com CNAME .
 mostbet-mosbet-np.com CNAME .
 *.mostbet-mosbet-np.com CNAME .
 mostbet-mosbet-uzb-kirish.com CNAME .
 *.mostbet-mosbet-uzb-kirish.com CNAME .
 mostbet-mosbet.com.kg CNAME .
 *.mostbet-mosbet.com.kg CNAME .
+mostbet-mosbet.cz CNAME .
+*.mostbet-mosbet.cz CNAME .
 mostbet-mostbet.com CNAME .
 *.mostbet-mostbet.com CNAME .
 mostbet-official-site.org CNAME .
@@ -4197,6 +4209,8 @@ mostbetofficial.net CNAME .
 *.mostbetofficial.net CNAME .
 mostbetofficialsite.cz CNAME .
 *.mostbetofficialsite.cz CNAME .
+mostbetor.com CNAME .
+*.mostbetor.com CNAME .
 mostbets.pl CNAME .
 *.mostbets.pl CNAME .
 mostbett-cz.com CNAME .
@@ -4947,6 +4961,8 @@ quickwin2.com CNAME .
 *.quickwin2.com CNAME .
 quickwin3.com CNAME .
 *.quickwin3.com CNAME .
+qzu0i6kzmb.com CNAME .
+*.qzu0i6kzmb.com CNAME .
 rab0na-1046.com CNAME .
 *.rab0na-1046.com CNAME .
 rab0na-1264.com CNAME .
@@ -6135,6 +6151,8 @@ talismania4.com CNAME .
 *.talismania4.com CNAME .
 talismania6.com CNAME .
 *.talismania6.com CNAME .
+tc77--westace.com CNAME .
+*.tc77--westace.com CNAME .
 tea-spins.co.uk CNAME .
 *.tea-spins.co.uk CNAME .
 tg.casino CNAME .
@@ -6237,6 +6255,8 @@ trivelabet179.com CNAME .
 *.trivelabet179.com CNAME .
 trivelabet482.com CNAME .
 *.trivelabet482.com CNAME .
+trivelabet681.com CNAME .
+*.trivelabet681.com CNAME .
 trueflip.io CNAME .
 *.trueflip.io CNAME .
 trueluck.com CNAME .
@@ -6301,6 +6321,8 @@ vegashero2.com CNAME .
 *.vegashero2.com CNAME .
 vegashero3.com CNAME .
 *.vegashero3.com CNAME .
+vegasherokasino.cz CNAME .
+*.vegasherokasino.cz CNAME .
 vegasino-1110.com CNAME .
 *.vegasino-1110.com CNAME .
 vegasino-9884.com CNAME .
@@ -6339,6 +6361,8 @@ vegazone8.com CNAME .
 *.vegazone8.com CNAME .
 vegazone9.com CNAME .
 *.vegazone9.com CNAME .
+vg88--vegashero.com CNAME .
+*.vg88--vegashero.com CNAME .
 vikingluck-0924.com CNAME .
 *.vikingluck-0924.com CNAME .
 vikingluck.com CNAME .
@@ -6383,6 +6407,8 @@ vipsta2.com CNAME .
 *.vipsta2.com CNAME .
 vipsta3.com CNAME .
 *.vipsta3.com CNAME .
+vr41--vegashero.com CNAME .
+*.vr41--vegashero.com CNAME .
 vspadfmb.com CNAME .
 *.vspadfmb.com CNAME .
 vulkanvegas.com CNAME .
@@ -6833,6 +6859,8 @@ woocasino3.com CNAME .
 *.woocasino3.com CNAME .
 woocasino4.com CNAME .
 *.woocasino4.com CNAME .
+ws43--westace.com CNAME .
+*.ws43--westace.com CNAME .
 wsmcasino.com CNAME .
 *.wsmcasino.com CNAME .
 wsmcasino5.com CNAME .
@@ -6863,6 +6891,8 @@ x3bet9.com CNAME .
 *.x3bet9.com CNAME .
 xbet-1.com CNAME .
 *.xbet-1.com CNAME .
+xcgtpiu4mb.com CNAME .
+*.xcgtpiu4mb.com CNAME .
 xlrkrhmost.com CNAME .
 *.xlrkrhmost.com CNAME .
 xxiibet.cz CNAME .
@@ -6925,6 +6955,18 @@ zipcasino67111.com CNAME .
 *.zipcasino67111.com CNAME .
 zipcasino8192.com CNAME .
 *.zipcasino8192.com CNAME .
+zoccer.com CNAME .
+*.zoccer.com CNAME .
+zoccer1.com CNAME .
+*.zoccer1.com CNAME .
+zoccer100.com CNAME .
+*.zoccer100.com CNAME .
+zoccer2.com CNAME .
+*.zoccer2.com CNAME .
+zoccer3.com CNAME .
+*.zoccer3.com CNAME .
+zoccer4.com CNAME .
+*.zoccer4.com CNAME .
 zodiac.casino CNAME .
 *.zodiac.casino CNAME .
 zodiac3.gameassists.co.uk CNAME .

@@ -933,6 +933,8 @@ $TTL 60
 *.7signs8.com CNAME .
 7signs9.com CNAME .
 *.7signs9.com CNAME .
+888starz.com CNAME .
+*.888starz.com CNAME .
 8kukimuki.com CNAME .
 *.8kukimuki.com CNAME .
 8kukimuki8.com CNAME .
@@ -6127,6 +6129,8 @@ sport.netbet.com CNAME .
 *.sport.netbet.com CNAME .
 sportaza-7653.com CNAME .
 *.sportaza-7653.com CNAME .
+sportaza-8557.com CNAME .
+*.sportaza-8557.com CNAME .
 sportaza-9361.com CNAME .
 *.sportaza-9361.com CNAME .
 sportaza.com CNAME .

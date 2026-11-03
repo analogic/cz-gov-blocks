@@ -729,6 +729,10 @@ $TTL 60
 *.22betz.com CNAME .
 22fortuneclock.com CNAME .
 *.22fortuneclock.com CNAME .
+22lucky.me CNAME .
+*.22lucky.me CNAME .
+22play22.com CNAME .
+*.22play22.com CNAME .
 22tsars.com CNAME .
 *.22tsars.com CNAME .
 22xbet.cz CNAME .
@@ -1051,6 +1055,16 @@ allyspin3.com CNAME .
 *.allyspin3.com CNAME .
 allyspinkasino.cz CNAME .
 *.allyspinkasino.cz CNAME .
+alterspin.com CNAME .
+*.alterspin.com CNAME .
+alterspin100.com CNAME .
+*.alterspin100.com CNAME .
+alterspin3.com CNAME .
+*.alterspin3.com CNAME .
+alterspin4.com CNAME .
+*.alterspin4.com CNAME .
+alterspin5.com CNAME .
+*.alterspin5.com CNAME .
 ampmcasino.vip CNAME .
 *.ampmcasino.vip CNAME .
 amunra-4184.com CNAME .
@@ -1137,6 +1151,14 @@ avocasino.com CNAME .
 *.avocasino.com CNAME .
 aze-most-bet.com CNAME .
 *.aze-most-bet.com CNAME .
+azurslot-cz.cz CNAME .
+*.azurslot-cz.cz CNAME .
+azurslot.cz CNAME .
+*.azurslot.cz CNAME .
+azurslot1.com CNAME .
+*.azurslot1.com CNAME .
+azurslots.cz CNAME .
+*.azurslots.cz CNAME .
 bankomatyvcr.cz CNAME .
 *.bankomatyvcr.cz CNAME .
 bankonbet-1203.com CNAME .
@@ -2601,6 +2623,8 @@ fambet2.com CNAME .
 *.fambet2.com CNAME .
 fambet3.com CNAME .
 *.fambet3.com CNAME .
+fastcas.games CNAME .
+*.fastcas.games CNAME .
 fastpay-casino.com CNAME .
 *.fastpay-casino.com CNAME .
 fastpay-casino4.com CNAME .
@@ -4673,6 +4697,8 @@ novajackpot88.com CNAME .
 *.novajackpot88.com CNAME .
 novecasino.net CNAME .
 *.novecasino.net CNAME .
+nr61--ragnaro.com CNAME .
+*.nr61--ragnaro.com CNAME .
 ntqrnwmost.com CNAME .
 *.ntqrnwmost.com CNAME .
 oceanets.eu CNAME .
@@ -4865,6 +4891,8 @@ pistolo-1771.com CNAME .
 *.pistolo-1771.com CNAME .
 pistolo-3325.com CNAME .
 *.pistolo-3325.com CNAME .
+pistolo-6110.com CNAME .
+*.pistolo-6110.com CNAME .
 pistolo-6252.com CNAME .
 *.pistolo-6252.com CNAME .
 pistolo-6571.com CNAME .
@@ -5485,6 +5513,8 @@ royalgame6.com CNAME .
 *.royalgame6.com CNAME .
 royalgame9.com CNAME .
 *.royalgame9.com CNAME .
+rr43--ragnaro.com CNAME .
+*.rr43--ragnaro.com CNAME .
 rtbet-0075.com CNAME .
 *.rtbet-0075.com CNAME .
 rtbet-0076.com CNAME .
@@ -5571,6 +5601,8 @@ sazeni-on-line.eu CNAME .
 *.sazeni-on-line.eu CNAME .
 sazeni-online.eu CNAME .
 *.sazeni-online.eu CNAME .
+sazenionline.eu CNAME .
+*.sazenionline.eu CNAME .
 sazka.casino CNAME .
 *.sazka.casino CNAME .
 sazkacas.xyz CNAME .
@@ -5807,6 +5839,8 @@ soft.lilibet.com CNAME .
 *.soft.lilibet.com CNAME .
 solafrost.top CNAME .
 *.solafrost.top CNAME .
+soslovenskecasino.sk CNAME .
+*.soslovenskecasino.sk CNAME .
 sp77--spinboss.com CNAME .
 *.sp77--spinboss.com CNAME .
 spassino.com CNAME .
@@ -6321,6 +6355,8 @@ sven-play.com CNAME .
 *.sven-play.com CNAME .
 svenplay.com CNAME .
 *.svenplay.com CNAME .
+svetovakasinaonline.cz CNAME .
+*.svetovakasinaonline.cz CNAME .
 syndicate.casino CNAME .
 *.syndicate.casino CNAME .
 t7dcjwba.com CNAME .
